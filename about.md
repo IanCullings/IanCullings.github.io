@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi Everyone!  My name is Ian Cullings, I'm a junior at Cornell University studying Environmental Engineering!  I will be spending the next semester in lovely Santander, Spain, through the [University of Cantabria exchange program](http://ceeserver.cee.cornell.edu/eac20/spain/), and documenting my travels through this blog.  If you have any questions, I highly encourage you to reach out via the email address or my social media, linked in the website footer.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[idc25@cornell.edu](mailto:email@domain.com)
