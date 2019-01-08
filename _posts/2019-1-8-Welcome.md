@@ -14,7 +14,7 @@ And some things I am less excited about:
 * Air Travel: I've never been a huge fan of flying, and due to the time change I'll be landing in Spain in what is 2am Eastern Time
 * Jet lag: Like most college students I'm a big fan of sleep, and thus not too excited to be jet lagged
 
-Look for my next post in a few days once I arrive!  And for all of you readers, I would love to hear from you.  Please comment or message me while I'm there, and if you're really interested you can sign up down below to recieve email updates from whenever I post.
+Look for my next post in a few days once I arrive!  And for all of you readers, I would love to hear from you.  Please comment or message me while I'm there, and let me know if you have any travel recommendations!
 
 Until next time,
 
