@@ -1,10 +1,21 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello everyone!  In just three days, I will be touching down in [Santander, Spain,](https://www.google.com/maps/place/Santander,+Cantabria,+Spain/data=!4m2!3m1!1s0xd4949ae8a6bee71:0xd27cdc801682ba96?ved=2ahUKEwjIv5DWtt7fAhUkn-AKHU20CV0Q8gEwFnoECAUQCA) to study environmental engineering for a semester!  I am incredibly excited to go, and to experience everything I can in Spain and throughout as much of Europe as I can get to.  Some things I am ecspecially looking forward to:
+* Experiencing a new culture and way of life
+* Traveling across Europe and seeing everything I can
+* Learning in a new academic environment
+* Making new friends in Spain
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+And some things I am less excited about:
+* Logistics: As I write this I still have not packed, or taken care of a few other key details.  Wish me luck!
+* Air Travel: I've never been a huge fan of flying, and due to the time change I'll be landing in Spain in what is 2am Eastern Time
+* Jet lag: Like most college students I'm a big fan of sleep, and thus not too excited to be jet lagged
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Look for my next post in a few days once I arrive!  And for all of you readers, I would love to hear from you.  Please comment or message me while I'm there, and if you're really interested you can sign up down below to recieve email updates from whenever I post.
+
+Until next time,
+
+Ian
